@@ -1,6 +1,6 @@
 # Iniciação Científica
-    - [Prof. Dr. Jesus Mena-Chalco](http://professor.ufabc.edu.br/~jesus.mena/) 
-    - [Brian Andreossi](https://www.linkedin.com/in/brian-andreossi-455258169/)
+    1. [Prof. Dr. Jesus Mena-Chalco](http://professor.ufabc.edu.br/~jesus.mena/) 
+    2. [Brian Andreossi](https://www.linkedin.com/in/brian-andreossi-455258169/)
 ## Heurísticas Computacionais para Identificação e Redução de Conflitos de Interesse em Bancas de Concurso
 ### Como usar:
 1. Alterar o arquivo **ex.config**, em **SHELL/** para a pasta raiz do processo
