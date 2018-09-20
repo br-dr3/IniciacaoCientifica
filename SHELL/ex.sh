@@ -194,7 +194,7 @@ else
 
     printLog "Executando analise"
     cd $WORK/SHELL
-    ./an.sh $k
+    #./an.sh $k
     cd - > /dev/null
 
 fi
